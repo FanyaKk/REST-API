@@ -29,7 +29,8 @@
     margin-left: 1rem;
 }
 
-/* Remove spacing on the left side of a first element - in this case that is the spacing before the view button */
+/* Remove spacing on the left side of a first element. 
+In this case that is the spacing before the view button */
 .btn-row > *:first-child {
     margin-left: 0;
 }
